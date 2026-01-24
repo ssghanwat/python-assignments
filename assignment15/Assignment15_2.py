@@ -1,23 +1,5 @@
 # Write a lambda function using filter() which accepts a list of numbers and returns a list of even numbers.
 
-# Write a lambda function using filter() which accepts a list of numbers and returns a list of odd numbers.
-
-# Write a lambda function using reduce() which accepts a list of numbers and returns the addition of all elements.
-
-# Write a lambda function using reduce() which accepts a list of numbers and returns the maximum element.
-
-# Write a lambda function using reduce() which accepts a list of numbers and returns the minimum element.
-
-# Write a lambda function using filter() which accepts a list of strings and returns a list of strings having length greater than 5.
-
-# Write a lambda function using filter() which accepts a list of numbers and returns a list of numbers divisible by both 3 and 5.
-
-# Write a lambda function using reduce() which accepts a list of numbers and returns the product of all elements.
-
-# Write a lambda function using filter() which accepts a list of numbers and returns the count of even numbers.
-
-
-
 numEven = lambda n : n % 2 == 0
 
 
