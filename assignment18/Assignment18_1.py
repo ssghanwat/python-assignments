@@ -1,5 +1,5 @@
-#Write a program which accepts N numbers from the user and stores them into a list. Return the addition of all elements from that list.
-
+#Write a program which accepts N numbers from the user and stores them into a list.
+#  Return the addition of all elements from that list.
 
 def lstSum(lst):
     iSum = 0
